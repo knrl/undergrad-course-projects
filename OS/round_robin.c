@@ -1,6 +1,5 @@
 /**
 	Mehmet Kaan Erol
-	   170419512
 **/
 
 #include <stdio.h>

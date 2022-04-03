@@ -1,2 +1,2 @@
 # undergrad-course-projects
-Collection of computer engineering undergraduate course homework and projects
+Collection of undergraduate computer engineering course homework and projects

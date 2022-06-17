@@ -1,0 +1,17 @@
+NAME
+    ks - her dosya için satır, kelime ve karakter sayısını yazdırır
+
+SYNOPSIS
+    ks [OPTION] ... [FILES]
+    ks [-l num_of_lines] [-w num_of_words] [-c num_of_characters] [file_name] [+, stdin] ...
+
+DESCRIPTION
+    -c, karakter (byte) sayısını yazdırır
+    -w, kelime sayısını yazdırır
+    -l, satır sayısını yazdırır
+
+EXAMPLES USAGES
+    (1) ./ks c_dickens.txt
+    (2) cat c_dickens.txt | ./ks
+    (3) cat c_dickens.txt | ./ks A.txt + A.txt
+    (4) ./ks -w B.txt + B.txt

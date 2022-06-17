@@ -1,0 +1,12 @@
+NAME
+    baklava_threadsync - bir toptancı 6 usta arasında dosyadan okudğu kaynakları paylaştırır
+
+SYNOPSIS
+    ks [OPTION] ... [FILES]
+    ks [-i kaynak_dosyasi] [file_name] ...
+
+DESCRIPTION
+    -i, kaynak dosyasini temsil eder
+
+EXAMPLES USAGES
+    (1) ./program -i kaynaklar.txt
